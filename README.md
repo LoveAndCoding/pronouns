@@ -1,6 +1,4 @@
-# Pronouns.LGBT
-
-[pronouns.lgbt](https://pronouns.lgbt).
+[![The pronouns.lgbt project](images/logo.readme.png)](https://pronouns.lgbt)
 
 This site serves as a guide to pronouns covering the following topics:
 
